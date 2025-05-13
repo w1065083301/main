@@ -1,0 +1,6 @@
+[submodule "order"]
+	path = order
+	url = https://github.com/w1065083301/order.git
+[submodule "customer"]
+	path = customer
+	url = https://github.com/w1065083301/customer.git
